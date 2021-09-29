@@ -139,6 +139,15 @@ footer {
     /* Footer */ 
  }
 
+ @media(max-width: 700px) {
+     /* Content */
+     .wrapper a {
+         width: 47.8%;
+         margin: 5px;
+         justify-content: center;
+     }
+ }
+
  @media(max-width: 500px){
     /* Header */
     .logo {
